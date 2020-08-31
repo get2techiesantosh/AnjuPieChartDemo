@@ -1,0 +1,9 @@
+[
+  {"Id":"id1", "pathId" : "P1" ,"name": "Deadshot",  "actor": "Will Smith", "rank": 10, "color": "#ffa14d", "description": "An expert marksman and assassin."},
+  {"Id":"id2","pathId" : "P2" , "name": "Harley Quinn", "actor": "Margot Robbie", "rank": 10, "color": "#ef8c34","description": "The Joker's main squeeze, the former psychiatrist is an insane sociopath with tremendous sex appeal."},
+  {"Id":"id3","pathId" : "P3" , "name": "Rick Flag", "actor": "Joel Kinnaman", "rank": 10, "color": "#e8702d","description": "The defacto leader of the group, he takes his orders directly from Amanda Waller."},
+  {"Id":"id4", "pathId" : "P4" ,"name": "Boomerang", "actor": "Jai Courtney", "rank": 10, "color": "#f6c845","description": "As his name suggests, Boomerang is an assassin who uses ... boomerangs."},
+  {"Id":"id5", "pathId" : "P5" ,"name": "El Diablo", "actor": "Jay Hernandez", "rank": 10, "color": "#4d8cff","description": "A former gang member who has seen a lot of violence, El Diablo can summon flames but tends to keep his anger and bloodlust in check."},
+  {"Id":"id6","pathId" : "P6" ,"name": "Killer Croc", "actor": "Adewale Akinnuoye-Agbaje", "color": "#3b858a","rank": 10, "description": "The most unique in appearance, Killer Croc is one of the most vicious and scariest of all the members, being a deformed humanoid with the appearance of a crocodile."}
+  
+]
